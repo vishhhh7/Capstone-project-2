@@ -1,4 +1,4 @@
-# Scalable Web App with NLB and Auto Scaling
+# Scalable Web App with NLB and Auto Scaling 
 
 ## Overview
 
